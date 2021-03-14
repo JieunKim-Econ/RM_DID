@@ -2,7 +2,7 @@
 
 This repository presents the final project of Research Module in Econometrics and Statistics.
 
-The purpose of our project is to provide the comprehensive understanding of the DID method
+The purpose of [our project](https://github.com/JieunKim-Econ/RM_DID/blob/main/Compact%20Review%20of%20DID.pdf) is to provide the comprehensive understanding of the DID method
 by giving the compact review, from the model description to empirical application with Monte
 Carlo simulation. 
 
